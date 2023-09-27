@@ -1,0 +1,18 @@
+ table{
+    border: 3px solid black;
+    float: center;
+    text-align: center;
+}
+th, td{
+    border: 2px solid black;
+    padding: 5px;
+}
+img{
+    border-radius: 50%;
+    border: 10px solid black;
+}
+.da{
+    border: 2px solid black;
+    width: 20%;
+    padding: 20px;
+}
